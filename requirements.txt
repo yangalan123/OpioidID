@@ -1,0 +1,9 @@
+transformers
+evaluate
+datasets
+loguru
+scikit-learn
+matplotlib
+nltk
+cleantext
+numpy
